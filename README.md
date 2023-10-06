@@ -4,3 +4,6 @@ html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet
 
 # GPS信息！
 html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/GPS_%E4%BF%A1%E6%81%AF.html)
+
+# C++基础！
+html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/C++基础.html)
