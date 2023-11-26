@@ -7,3 +7,6 @@ html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet
 
 # C++基础！
 html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/C++基础.html)
+
+# C++地基级！
+html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/C++地基级.html)
