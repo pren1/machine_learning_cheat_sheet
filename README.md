@@ -10,3 +10,7 @@ html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet
 
 # C++地基级！
 html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/C++_地基级.html)
+
+# 类成员函数返回引用
+html网页链接：[这里](https://pren1.github.io/machine_learning_cheat_sheet/类成员函数返回引用.html)
+
